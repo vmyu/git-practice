@@ -1,5 +1,3 @@
 this is test file 1
 
 This is the first revision!
-
-ERROR: Mistake here!
